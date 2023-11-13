@@ -1,6 +1,8 @@
 const fs = require('fs')
 const path = require('path')
 
+const test = 'Does this work?'
+
 const express = require("express");
 const bodyParser = require("body-parser");
 const mongoose = require("mongoose");
