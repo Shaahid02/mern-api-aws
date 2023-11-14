@@ -5,8 +5,8 @@
         "DB_NAME": "mern-app",
         "GOOGLE_API_KEY": "AIzaSyCGaCAvXWhBUuc0XbZQCn3-Eg66oZoyAX4",
         "JWT_KEY": "supersecret_dont_share",
-        "AWS_SECRET_ACCESS_KEY": "Qq4XxQUfqz6xVepQlzu6KpZe+RJEvpnKTetlprDE",
-        "AWS_ACCESS_KEY_ID": "AKIAZSTN5C5MI2XRBUBC",
+        "AWS_SECRET_ACCESS_KEY": "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",
+        "AWS_ACCESS_KEY_ID": "AKIAZSTN5C5MLEH6L54D",
         "AWS_REGION": "ap-southeast-1",
         "AWS_BUCKET_NAME": "mern-prod-bucket"
     }
